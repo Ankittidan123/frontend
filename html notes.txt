@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>practise page</title>
+</head>
+<body>
+    <div style="display: flex;">
+        <div style="height: 200px; width: 200px; border: 2px solid black; background-color: brown;"></div>
+        <div style="height: 200px; width: 200px; border: 2px dotted blue; background-color: blueviolet;"></div>
+        <div style="height: 200px; width: 200px; border: 2px dotted blue; background-color: blue;"></div>
+        <div style="height: 200px; width: 200px; border: 2px groove red; background-color: blanchedalmond;"></div>
+        <div style="height: 200px; width: 200px; border: 2px dotted blue; background-color: aqua;"></div>
+    </div>
+    <div style="display: flex;">
+        <div style="height: 200px; width: 200px; border: 2px solid black;"></div>
+        <div style="height: 200px; width: 200px; border: 2px dotted blue; background-color: black;"></div>
+        <div style="height: 200px; width: 200px; border: 2px dotted blue; background-color: blanchedalmond;"></div>
+        <div style="height: 200px; width: 200px; border: 2px groove red; background-color: blue;"></div>
+        <div style="height: 200px; width: 200px; border: 2px dotted blue; background-color: black;"></div>
+    </div>
+    <div style="display: flex;">
+        <div style="height: 200px; width: 200px; border: 2px solid black; background-color: brown;"></div>
+        <div style="height: 200px; width: 200px; border: 2px dotted blue; background-color: cadetblue;"></div>
+        <div style="height: 200px; width: 200px; border: 2px dotted blue; background-color: blueviolet;"></div>
+        <div style="height: 200px; width: 200px; border: 2px groove red; background-color: chartreuse;"></div>
+        <div style="height: 200px; width: 200px; border: 2px dotted blue; background-color: coral;"></div>
+    </div>
+    <div style="display: flex;">
+        <div style="height: 200px; width: 200px; border: 2px solid black; background-color: beige;"></div>
+        <div style="height: 200px; width: 200px; border: 2px dotted blue; background-color: blue;"></div>
+        <div style="height: 200px; width: 200px; border: 2px dotted blue; background-color: deepskyblue;"></div>
+        <div style="height: 200px; width: 200px; border: 2px groove red; background-color: red;"></div>
+        <div style="height: 200px; width: 200px; border: 2px dotted blue; background-color: lawngreen;"></div>
+    </div>
+    <div style="display: flex;">
+        <div style="height: 200px; width: 200px; border: 2px solid black; background-color: black;"></div>
+        <div style="height: 200px; width: 200px; border: 2px dotted blue; background-color: greenyellow;"></div>
+        <div style="height: 200px; width: 200px; border: 2px dotted blue; background-color: lightseagreen;"></div>
+        <div style="height: 200px; width: 200px; border: 2px groove red; background-color: purple;"></div>
+        <div style="height: 200px; width: 200px; border: 2px dotted blue; background-color: brown;"></div>
+    </div>
+</body>
+</html>
+===========================================================================
+
+
+ TABLE WITH DIV
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <DIV>
+        <div style="width: 200px; width: 200px; border: 2px solid burlywood;">
+            <table style="width: 200px; height: 200px; border: 2px solid blue; background-color: aqua;">
+                <tr style="border: 8px solid rebeccapurple;">
+                    <th>name</th>
+                    <th>age</th>
+                    <th>rank</th>
+                </tr>
+                <tr>
+                    <td>1</td>
+                    <td>2</td>
+                    <td>3</td>
+                </tr>
+                <tr>
+                    <td>1</td>
+                    <td>2</td>
+                    <td>3</td>
+                </tr>
+            </table>
+        </div>
+    <!-- </DIV>
+    <DIV> -->
+        <div style="width: 200px; width: 200px; border: 2px solid burlywood;">
+            <table style="width: 200px; height: 200px; border: 2px solid blue; background-color: aqua;">
+                <tr style="border: 8px solid rebeccapurple;">
+                    <th>name</th>
+                    <th>age</th>
+                    <th>rank</th>
+                </tr>
+                <tr>
+                    <td>1</td>
+                    <td>2</td>
+                    <td>3</td>
+                </tr>
+                <tr>
+                    <td>1</td>
+                    <td>2</td>
+                    <td>3</td>
+                </tr>
+            </table>
+        </div>
+    <!-- </DIV>
+    <DIV> -->
+        <div style="width: 200px; width: 200px; border: 2px solid burlywood;">
+            <table style="width: 200px; height: 200px; border: 2px solid blue; background-color: aqua;">
+                <tr style="border: 8px solid rebeccapurple;">
+                    <th>name</th>
+                    <th>age</th>
+                    <th>rank</th>
+                </tr>
+                <tr>
+                    <td>1</td>
+                    <td>2</td>
+                    <td>3</td>
+                </tr>
+                <tr>
+                    <td>1</td>
+                    <td>2</td>
+                    <td>3</td>
+                </tr>
+            </table>
+        </div>
+    <!-- </DIV>
+    <DIV> -->
+        <div style="width: 200px; width: 200px; border: 2px solid burlywood;">
+            <table style="width: 200px; height: 200px; border: 2px solid blue; background-color: aqua;">
+                <tr style="border: 8px solid rebeccapurple;">
+                    <th>name</th>
+                    <th>age</th>
+                    <th>rank</th>
+                </tr>
+                <tr>
+                    <td>1</td>
+                    <td>2</td>
+                    <td>3</td>
+                </tr>
+                <tr>
+                    <td>1</td>
+                    <td>2</td>
+                    <td>3</td>
+                </tr>
+            </table>
+        </div>
+    <!-- </DIV>
+    <DIV> -->
+        <div style="width: 200px; width: 200px; border: 2px solid burlywood;">
+            <table style="width: 200px; height: 200px; border: 2px solid blue; background-color: aqua;">
+                <tr style="border: 8px solid rebeccapurple;">
+                    <th>name</th>
+                    <th>age</th>
+                    <th>rank</th>
+                </tr>
+                <tr>
+                    <td>1</td>
+                    <td>2</td>
+                    <td>3</td>
+                </tr>
+                <tr>
+                    <td>1</td>
+                    <td>2</td>
+                    <td>3</td>
+                </tr>
+            </table>
+        </div>
+    </DIV>
+</body>
+</html>
