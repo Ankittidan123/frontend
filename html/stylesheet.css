@@ -1,0 +1,16 @@
+.header{
+    justify-content: end;
+    border-radius: 50%;
+    text-align: center;
+    align-items: center;
+    display: flex;
+}
+.cls{
+    font-size: medium;
+    color: black;
+    justify-items: center;
+}
+.clse{
+    size: 70px;
+    
+}
